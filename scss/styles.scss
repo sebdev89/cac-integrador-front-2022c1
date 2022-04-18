@@ -1,0 +1,27 @@
+$success: #96D33E;
+html {
+    font-family: 'Lato', sans-serif;
+    font-size: 12px;
+    background-color: #fcfcfc;
+}
+
+
+footer{
+/* La nueva sintaxis necesaria para navegadores apegados al estandar (IE 10 y Firefox 10 en adelante), sin prefijo */
+background: linear-gradient( #1c3643, #1c3643);
+}
+
+.logo-title
+{
+    color: white;
+   
+}
+
+html {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    background-color: #fcfcfc;
+}
+
+
+@import  "../libs/bootstrap/scss/bootstrap.scss";
