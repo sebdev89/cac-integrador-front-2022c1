@@ -1,6 +1,6 @@
 $success: #96D33E;
 html {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 12px;
     background-color: #fcfcfc;
 }
@@ -8,7 +8,7 @@ html {
 
 footer{
 /* La nueva sintaxis necesaria para navegadores apegados al estandar (IE 10 y Firefox 10 en adelante), sin prefijo */
-background: linear-gradient( #1c3643, #1c3643);
+background: red;
 }
 
 .logo-title
